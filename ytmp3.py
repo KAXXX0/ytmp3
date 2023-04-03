@@ -27,3 +27,6 @@ if __name__ == "__main__":
     url = input("Enter the URL of a YouTube video: ")
     filename = download(url)
     print(f"Download complete. Audio saved as {filename}.")
+    print(" /\_/\ ")
+    print("( o o )")
+    print(" > ^ < ")
